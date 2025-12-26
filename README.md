@@ -42,8 +42,8 @@ An Augmented Reality (AR) Heads-Up Display (HUD) controlled by your hand gesture
 ### 1. Clone the Repository
 
 ```bash
-git clone <repo-url>
-cd whole-hand-ar-hud
+git clone https://github.com/JAYP752/Whole-hand-AR-Hud.git
+cd Whole-hand-AR-Hud
 ```
 
 ### 2. Create Virtual Environment
