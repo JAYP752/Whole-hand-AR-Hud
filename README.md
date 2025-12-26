@@ -33,7 +33,7 @@ An Augmented Reality (AR) Heads-Up Display (HUD) controlled by your hand gesture
 
 ## 🔧 Requirements
 
-- **Python 3.10+** (tested with Python 3.13)
+- **Python 3.10+**
 - **Webcam**
 - **Operating System**: macOS, Linux, or Windows
 
